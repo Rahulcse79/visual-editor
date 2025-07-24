@@ -1,6 +1,16 @@
-# Scratch starter project
+# Visual Editor
 
-To get started:
+A web-based visual code editor built with React.  
+Drag-and-drop blocks to build code, similar to Scratch.
 
-- Run `npm i` to install dependencies
-- Run `npm start` and open http://localhost:3000 to see the app
+## Features
+- Block-based editor
+- Sprite preview
+- Animation controls
+
+## Getting Started
+
+```bash
+npm install
+npm run dev
+# Visual Editor
